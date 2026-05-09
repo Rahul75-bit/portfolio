@@ -474,7 +474,7 @@ export default function Skills() {
         <h2 className="text-xl font-semibold mb-2 text-gray-300">
           Currently <span style={{ color: "#dc2626" }}>Learning</span> 🚀
         </h2>
-        <p className="text-white">Next.js, TypeScript</p>
+        <p className="text-white">Spring Boot, Next.js</p>
       </div>
     </div>
   );
