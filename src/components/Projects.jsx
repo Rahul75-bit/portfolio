@@ -31,6 +31,12 @@ export default function Projects() {
       code: "https://github.com/Rahul75-bit/quizmaster.git",
       tech: ["React","Tailwind"],
     },
+      {
+      title: "Employee Payroll System",
+      desc: "Adding new employee's and their pay ",
+      code: "https://github.com/Rahul75-bit/EmployeePayrollSystem",
+      tech: ["Java"],
+    },
   ];
 
   return (
